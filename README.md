@@ -37,3 +37,5 @@ Apos instalar escolha a opção *Conta coorporativa ou de estudante* e faça log
 Entre na sua loja de aplicativos (PlayStore ou App Store) e baixe o app *Microsoft Authenticator*. 
 
 Abra o aplicativo e escolha a opção de adicionar uma nova conta, escolha a opção de ler um QR Code e aponte para o QR Code que aparecerá na tela.
+
+Para finalizar a autenticação insira seu telefone e confirme o código de segurança
